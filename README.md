@@ -1,5 +1,5 @@
 
-# Lesson Name
+# Iterating Over Collections
 
 
 ## Introduction
